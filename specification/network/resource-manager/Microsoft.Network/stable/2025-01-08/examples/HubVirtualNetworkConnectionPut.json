@@ -3,7 +3,7 @@
         "connectionName": "connection1",
         "virtualHubName": "virtualHub1",
         "resourceGroupName": "rg1",
-        "api-version": "2018-04-01",
+        "api-version": "2025-01-08",
         "subscriptionId": "subid",
         "hubVirtualNetworkConnectionParameters": {
           "properties": {
