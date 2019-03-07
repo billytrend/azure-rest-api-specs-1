@@ -3,7 +3,7 @@
       "circuitName":"circuitName",
       "resourceGroupName":"rg1",
       "authorizationName":"authorizatinName",
-      "api-version": "2018-11-01",
+      "api-version": "444",
       "subscriptionId":"subid",
       "authorizationParameters":{
         "properties": {
