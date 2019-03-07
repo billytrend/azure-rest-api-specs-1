@@ -3,7 +3,7 @@
     "subscriptionId": "{subscription-id}",
     "resourceGroupName": "myResourceGroup",
     "vmName": "{vm-name}",
-    "api-version": "2018-10-01",
+    "api-version": "10",
     "parameters": {
       "location": "westus",
       "properties": {

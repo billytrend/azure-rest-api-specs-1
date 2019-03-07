@@ -3,7 +3,7 @@
   "info": {
     "title": "RunCommandsClient",
     "description": "The Run Commands Client.",
-    "version": "2018-10-01"
+    "version": "10"
   },
   "host": "management.azure.com",
   "schemes": [

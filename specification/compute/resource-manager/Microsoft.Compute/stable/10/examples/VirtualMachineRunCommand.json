@@ -4,7 +4,7 @@
     "resourceGroupName": "crptestar98131",
     "vmName": "vm3036",
     "$top": 1,
-    "api-version": "2018-10-01",
+    "api-version": "10",
     "monitor": "true",
     "parameters": {
       "commandId": "RunPowerShellScript"
