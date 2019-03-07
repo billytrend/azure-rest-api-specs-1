@@ -28,15 +28,56 @@ These are the global settings for the Network API.
 title: NetworkManagementClient
 description: Network Client
 openapi-type: arm
-tag: package-2018-11
+tag: package-444
 ```
 
 
+### Tag: package-444
+
+These settings apply only when `--tag=package-444` is specified on the command line.
+
+```yaml $(tag) == 'package-444'
+input-file:
+  - Microsoft.Network/stable/444/applicationGateway.json
+  - Microsoft.Network/stable/444/applicationSecurityGroup.json
+  - Microsoft.Network/stable/444/availableDelegations.json
+  - Microsoft.Network/stable/444/azureFirewall.json
+  - Microsoft.Network/stable/444/azureFirewallFqdnTag.json
+  - Microsoft.Network/stable/444/checkDnsAvailability.json
+  - Microsoft.Network/stable/444/ddosCustomPolicy.json
+  - Microsoft.Network/stable/444/ddosProtectionPlan.json
+  - Microsoft.Network/stable/444/endpointService.json
+  - Microsoft.Network/stable/444/expressRouteCircuit.json
+  - Microsoft.Network/stable/444/expressRouteCrossConnection.json
+  - Microsoft.Network/stable/444/expressRouteGateway.json
+  - Microsoft.Network/stable/444/expressRoutePort.json
+  - Microsoft.Network/stable/444/interfaceEndpoint.json
+  - Microsoft.Network/stable/444/loadBalancer.json
+  - Microsoft.Network/stable/444/network.json
+  - Microsoft.Network/stable/444/networkInterface.json
+  - Microsoft.Network/stable/444/networkProfile.json
+  - Microsoft.Network/stable/444/networkSecurityGroup.json
+  - Microsoft.Network/stable/444/networkWatcher.json
+  - Microsoft.Network/stable/444/operation.json
+  - Microsoft.Network/stable/444/publicIpAddress.json
+  - Microsoft.Network/stable/444/publicIpPrefix.json
+  - Microsoft.Network/stable/444/routeFilter.json
+  - Microsoft.Network/stable/444/routeTable.json
+  - Microsoft.Network/stable/444/serviceCommunity.json
+  - Microsoft.Network/stable/444/serviceEndpointPolicy.json
+  - Microsoft.Network/stable/444/usage.json
+  - Microsoft.Network/stable/444/virtualNetwork.json
+  - Microsoft.Network/stable/444/virtualNetworkGateway.json
+  - Microsoft.Network/stable/444/virtualNetworkTap.json
+  - Microsoft.Network/stable/444/virtualWan.json
+  - Microsoft.Network/stable/444/vmssNetworkInterface.json
+  - Microsoft.Network/stable/444/vmssPublicIpAddress.json
+```
 ### Tag: package-2018-11
 
 These settings apply only when `--tag=package-2018-11` is specified on the command line.
 
-```yaml $(tag) == 'package-2018-11'
+``` yaml $(tag) == 'package-2018-11'
 input-file:
   - Microsoft.Network/stable/2018-11-01/applicationGateway.json
   - Microsoft.Network/stable/2018-11-01/applicationSecurityGroup.json
@@ -73,6 +114,7 @@ input-file:
   - Microsoft.Network/stable/2018-11-01/vmssNetworkInterface.json
   - Microsoft.Network/stable/2018-11-01/vmssPublicIpAddress.json
 ```
+
 ### Tag: package-2018-10
 
 These settings apply only when `--tag=package-2018-10` is specified on the command line.
