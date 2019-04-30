@@ -1,5 +1,4 @@
 {
-  "sdkAutomationBaseBranch": "sdkautomationmaster",
   "sdkRepositoryMappings": {
     "azure-sdk-for-python": "Azure/azure-sdk-for-python",
     "azure-sdk-for-java": "Azure/azure-sdk-for-java",
