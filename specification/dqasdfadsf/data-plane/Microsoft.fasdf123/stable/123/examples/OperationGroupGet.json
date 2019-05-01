@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "accountName": "sampleacct",
+    "resourceGroupName": "dqasdfadsfClient",
+    "api-version": "123",
+    "subscriptionId": "subid"
+  },
+  "responses": {
+    "200": {
+      "body": {
+        "name": "sampleacct",
+        "location": "uswest",
+        "id": "/subscriptions/subid/resourceGroups/dqasdfadsfClient/providers/Microsoft.fasdf123/batchAccounts/sampleacct",
+        "type": "Microsoft.fasdf123/dqasdfadsf"
+      }
+    }
+  }
+}
