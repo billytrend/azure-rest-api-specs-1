@@ -1,6 +1,6 @@
 {
   "parameters": {
-    "api-version": "2019-04-15",
+    "api-version": "23452345",
     "checkNameAvailabilityInput": {
       "name": "sampleName",
       "type": "Microsoft.Cdn/Profiles/Endpoints"
